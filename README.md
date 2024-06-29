@@ -24,8 +24,8 @@ From now on, the magical tool for brainless work is here! Just put your attachme
 5. Please try to put all the attachment files in this "Johnny's Invition" folder. As long as it is within the attachment size limit of Google Gmail, you can send it as an attachment.
 6. Before the deadline on July 1, 2024, you can use the "Advanced" menu to manually send notification letters by yourself, or you can set it to automatically send the letter, set how many days to send it, and how many times to send it at most. .
 ## 中文版本
-1. 請以建立副本的方式，將「不為誰而寫的郵件通知」（中文版）試算表複製到自己的雲端硬碟中。
-<img src="https://drive.google.com/thumbnail?id=1VPOf35PyZgLATppHCohcrrTvAS6_jnh5" alt="請以建立副本的方式，將「不為誰而寫的郵件通知」（中文版）試算表複製到自己的雲端硬碟中。" />
+1. 請以建立副本的方式，將「不為誰而寫的郵件通知」（中文版）試算表複製到自己的雲端硬碟中。  
+[示範教學1：取得檔案](https://drive.google.com/file/d/1VPOf35PyZgLATppHCohcrrTvAS6_jnh5)
 2. 打開試算表之後，等待「進階功能」功能顯示，若沒有顯示請重新整理網頁一次。
 3. 在雲端硬碟中，與試算表同一個資料夾中建立一個名稱為「資料區」的資料夾，用來放置各個收件者的資料夾。（程式執行時也會檢查資料夾是否存在，如果不存在會自動新增）
 4. 在「資料區」資料夾中新增一個名為「帥哥」的收件人資料夾，未來任何要寄給帥哥的附件檔案都放在這個資料夾這裡，試著在帥哥資料夾中新增一個「1130701_頒獎典禮」的資料夾，命名規則是「截止期限_信件主旨」。
