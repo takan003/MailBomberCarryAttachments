@@ -16,12 +16,14 @@ From now on, the magical tool for brainless work is here! Just put your attachme
 有時候我們需要對不同的對象週期性地寄送各種通知郵件時，如果每次都只能手動寫信與附上檔案，除了耗費極大的精力不算，可能會手忙腳亂到甚至寄錯對象，實在是吃力不討好的工作。  
 現在起，無腦工作的神器來啦！只要將您的附件檔案放進谷哥雲端硬碟中，提供對應的寄件人名單，剩下的問題都交給這支程式幫您來解決啦！透過程式，你可以手動寄信，也能指定時間、次數，設定成週期性自動寄信，完全不用再浪費時間盯著它。
 # How to use 使用說明
-1. Please copy the "SuperSimpleMailSender"(English version) spreadsheet to your Google drive by "Make a copy".  
-請以建立副本的方式，將「不為誰而寫的郵件通知」（中文版）試算表複製到自己的雲端硬碟中。
-2. After opening the spreadsheet, wait for the "Advanced" function on menu to be displayed, if it is not displayed, please refresh the page once.  
-打開試算表之後，等待「進階功能」功能顯示，若沒有顯示請重新整理網頁一次。
-3. In the Google Drive, create a folder named "theData" in the same folder as the spreadsheet, and add folders for different recipients in the folder of "theDta".  
-在雲端硬碟中，與試算表同一個資料夾中建立一個名稱為「資料區」的資料夾，並在這個資料區的資料夾中新增不同收件者的資料夾。
+## English Version
+1. Please copy the "SuperSimpleMailSender"(English version) spreadsheet to your Google drive by "Make a copy".
+2. After opening the spreadsheet, wait for the "Advanced" function on menu to be displayed, if it is not displayed, please refresh the page once.
+3. In the Google Drive, create a folder named "theData" in the same folder as the spreadsheet, and add folders for different recipients in the folder of "theDta".
+## 中文版本
+1. 請以建立副本的方式，將「不為誰而寫的郵件通知」（中文版）試算表複製到自己的雲端硬碟中。
+2. 打開試算表之後，等待「進階功能」功能顯示，若沒有顯示請重新整理網頁一次。
+3. 在雲端硬碟中，與試算表同一個資料夾中建立一個名稱為「資料區」的資料夾，用來放置各個收件者的資料夾。
 # Visit & Sponsor 參觀與贊助
 Welcome to my website [GAS](https://script.google.com/a/macros/gms.hlgs.hlc.edu.tw/s/AKfycbzS29sVfv6vUKcXY8zhHl8XZKU52VfvjxzqeEQACrAufS7JiWOexlIYgyfgtCusAVJt/exec "GAS"), there may be some tools, programs, or even inspiration that can help you. We are more than happy to accept your [sponsor](https://p.ecpay.com.tw/36FF207 "sponsor")ship if you wish.❤️  
 歡迎參觀我的網站 [GAS](https://script.google.com/a/macros/gms.hlgs.hlc.edu.tw/s/AKfycbzS29sVfv6vUKcXY8zhHl8XZKU52VfvjxzqeEQACrAufS7JiWOexlIYgyfgtCusAVJt/exec "GAS")，裡頭也許會有一些能幫助您的工具、程式，甚至是提供靈感。如果您願意的話，也非常樂意接受您的[打賞](https://p.ecpay.com.tw/36FF207 "打賞")。❤️  
