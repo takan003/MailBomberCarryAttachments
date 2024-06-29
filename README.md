@@ -30,8 +30,10 @@ From now on, the magical tool for brainless work is here! Just put your attachme
 [示範教學2：顯示進階功能選單](https://drive.google.com/file/d/1qRf8TKYvPUF3PbQ7Xhh-eneyAhu7OWVY)
 3. 在雲端硬碟中，與試算表同一個資料夾中建立一個名稱為「資料區」的資料夾，用來放置各個收件者的資料夾。（程式執行時也會檢查資料夾是否存在，如果不存在會自動新增）  
 [示範教學3：建立「資料區」的資料夾](https://drive.google.com/file/d/1MW_jd0RB6gFJn1xcuMG6Bds-kKw0VLME)
-4. 在「資料區」資料夾中新增一個名為「帥哥」的收件人資料夾，未來任何要寄給帥哥的附件檔案都放在這個資料夾這裡，試著在帥哥資料夾中新增一個「1130701_頒獎典禮」的資料夾，命名規則是「截止期限_信件主旨」。
-5. 請試著在這個「頒獎典禮」的資料放進所有的附件檔案，只要在Google Gmail的附件大小限制內都可以作為附件來寄送。
+4. 在「資料區」資料夾中新增一個名為「帥哥」的收件人資料夾，未來任何要寄給帥哥的附件檔案都放在這個資料夾這裡，試著在帥哥資料夾中新增一個「1130701_頒獎典禮」的資料夾，命名規則是「截止期限_信件主旨」。  
+[示範教學4：在「資料區」中新增收件人為「帥哥」的資料夾，並在其中新增一個活動資料夾「1130701_頒獎典禮」](https://drive.google.com/file/d/1RtrmEQD36mjw8VUxIpRP0Rtydm8wE0zc)
+5. 請試著在這個「頒獎典禮」的資料放進所有的附件檔案，只要在Google Gmail的附件大小限制內都可以作為附件來寄送。  
+[示範教學5：放入檔案做為「1130701_頒獎典禮」的附件](https://drive.google.com/file/d/1S2BC4wn0c0u29S87YnZCGnIqKvNYcvwj)
 6. 在113年7月1日期限之前，可以透過「進階功能」選單，可以自行手動寄送通知信件，也可以設定為自動寄信，設定多少天寄送一次，最多寄送幾次。
 # Visit & Sponsor 參觀與贊助
 Welcome to my website [GAS](https://script.google.com/a/macros/gms.hlgs.hlc.edu.tw/s/AKfycbzS29sVfv6vUKcXY8zhHl8XZKU52VfvjxzqeEQACrAufS7JiWOexlIYgyfgtCusAVJt/exec "GAS"), there may be some tools, programs, or even inspiration that can help you. We are more than happy to accept your [sponsor](https://p.ecpay.com.tw/36FF207 "sponsor")ship if you wish.❤️  
