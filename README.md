@@ -20,6 +20,8 @@ From now on, the magical tool for brainless work is here! Just put your attachme
 請以建立副本的方式，將「不為誰而寫的郵件通知」（中文版）試算表複製到自己的雲端硬碟中。
 2. After opening the spreadsheet, wait for the "Advanced" function on menu to be displayed, if it is not displayed, please refresh the page once.  
 打開試算表之後，等待「進階功能」功能顯示，若沒有顯示請重新整理網頁一次。
+3. In the Google Drive, create a folder named "theData" in the same folder as the spreadsheet, and add folders for different recipients in the folder of "theDta".  
+在雲端硬碟中，與試算表同一個資料夾中建立一個名稱為「資料區」的資料夾，並在這個資料區的資料夾中新增不同收件者的資料夾。
 # Visit & Sponsor 參觀與贊助
 Welcome to my website [GAS](https://script.google.com/a/macros/gms.hlgs.hlc.edu.tw/s/AKfycbzS29sVfv6vUKcXY8zhHl8XZKU52VfvjxzqeEQACrAufS7JiWOexlIYgyfgtCusAVJt/exec "GAS"), there may be some tools, programs, or even inspiration that can help you. We are more than happy to accept your [sponsor](https://p.ecpay.com.tw/36FF207 "sponsor")ship if you wish.❤️  
 歡迎參觀我的網站 [GAS](https://script.google.com/a/macros/gms.hlgs.hlc.edu.tw/s/AKfycbzS29sVfv6vUKcXY8zhHl8XZKU52VfvjxzqeEQACrAufS7JiWOexlIYgyfgtCusAVJt/exec "GAS")，裡頭也許會有一些能幫助您的工具、程式，甚至是提供靈感。如果您願意的話，也非常樂意接受您的[打賞](https://p.ecpay.com.tw/36FF207 "打賞")。❤️  
