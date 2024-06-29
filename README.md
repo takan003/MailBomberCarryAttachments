@@ -35,8 +35,8 @@ From now on, the magical tool for brainless work is here! Just put your attachme
 5. 請試著在這個「頒獎典禮」的資料放進所有的附件檔案，只要在Google Gmail的附件大小限制內都可以作為附件來寄送。  
 [示範教學5：放入檔案做為「1130701_頒獎典禮」的附件](https://drive.google.com/file/d/1S2BC4wn0c0u29S87YnZCGnIqKvNYcvwj)
 6. 在113年7月1日期限之前，可以透過「進階功能」選單，可以自行手動寄送通知信件，也可以設定為自動寄信，設定多少天寄送一次，最多寄送幾次。  
-[示範教學6：寄送通知郵件](https://drive.google.com/file/d/1u-WNkErMpMMrH17ObWhhsWit46OSTV5H)
-[示範教學7：設定自動寄送]()
+[示範教學6：寄送通知郵件](https://drive.google.com/file/d/1u-WNkErMpMMrH17ObWhhsWit46OSTV5H)  
+[示範教學7：開啟自動寄送](https://drive.google.com/file/d/1au9Z-9p-qvcLMfCQFi6WzvQ4Lo8mwFTo)
 # Visit & Sponsor 參觀與贊助
 Welcome to my website [GAS](https://script.google.com/a/macros/gms.hlgs.hlc.edu.tw/s/AKfycbzS29sVfv6vUKcXY8zhHl8XZKU52VfvjxzqeEQACrAufS7JiWOexlIYgyfgtCusAVJt/exec "GAS"), there may be some tools, programs, or even inspiration that can help you. We are more than happy to accept your [sponsor](https://p.ecpay.com.tw/36FF207 "sponsor")ship if you wish.❤️  
 歡迎參觀我的網站 [GAS](https://script.google.com/a/macros/gms.hlgs.hlc.edu.tw/s/AKfycbzS29sVfv6vUKcXY8zhHl8XZKU52VfvjxzqeEQACrAufS7JiWOexlIYgyfgtCusAVJt/exec "GAS")，裡頭也許會有一些能幫助您的工具、程式，甚至是提供靈感。如果您願意的話，也非常樂意接受您的[打賞](https://p.ecpay.com.tw/36FF207 "打賞")。❤️  
