@@ -20,8 +20,9 @@ From now on, the magical tool for brainless work is here! Just put your attachme
 1. Please copy the "SuperSimpleMailSender"(English version) spreadsheet to your Google drive by "Make a copy".  
 [Demo 1：Make a copy](https://drive.google.com/file/d/1CNs_1tKbGjg-IigUbmqIUj76bL_Wv_V4)
 2. After opening the spreadsheet, wait for the "Advanced" function on menu to be displayed, if it is not displayed, please refresh the page once.  
-[Demo 2：Check 'Advanced' Menu](https://drive.google.com/file/d/1iAwqLAXbFiqtUcU_mgHp4RXloYxpwOUP)
-3. In the Google Drive, create a folder named "theData" in the same folder as the spreadsheet to place the folders of each recipient. (When the program is executed, it will also check whether the folder exists, and if it does not exist, it will be added automatically)
+[Demo 2：Check 'Advanced' menu](https://drive.google.com/file/d/1iAwqLAXbFiqtUcU_mgHp4RXloYxpwOUP)
+3. In the Google Drive, create a folder named "theData" in the same folder as the spreadsheet to place the folders of each recipient. (When the program is executed, it will also check whether the folder exists, and if it does not exist, it will be added automatically)  
+[Demo 3：Create 'theDta' folder](https://drive.google.com/file/d/1QJml-B2QKCQw_7auFCyQpEoP7oorWQHp)
 4. Create a new recipient folder named "Johnny" in the "theData" folder. Any attachment files to be sent to Johnny in the future will be placed in this folder. Try adding a new folder in the Johnny's folder. The naming rule for the folder 「20240701_Johnny's Invition」 is 「'Deadline'_'Subject of the Letter'」.
 5. Please try to put all the attachment files in this "Johnny's Invition" folder. As long as it is within the attachment size limit of Google Gmail, you can send it as an attachment.
 6. Before the deadline on July 1, 2024, you can use the "Advanced" menu to manually send notification letters by yourself, or you can set it to automatically send the letter, set how many days to send it, and how many times to send it at most. .
