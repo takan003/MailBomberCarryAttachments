@@ -25,8 +25,9 @@ From now on, the magical tool for brainless work is here! Just put your attachme
 [Demo 3：Create 'theData' folder](https://drive.google.com/file/d/1QJml-B2QKCQw_7auFCyQpEoP7oorWQHp)
 4. Create a new recipient folder named "Johnny" in the "theData" folder. Any attachment files to be sent to Johnny in the future will be placed in this folder. Try adding a new folder in the Johnny's folder. The naming rule for the folder 「20240715_Johnny's Invitation」 is 「'Deadline'_'Subject of the Letter'」.  
 [Demo 4：Create 'Johnny' folder, and create '20240715_Johnny's Invitation' in Johnny's folder](https://drive.google.com/file/d/1K4-aN7Jb-klC0UerVNqkAeFcKthLmMNK)
-5. Please try to put all the attachment files in this "Johnny's Invitation" folder. As long as it is within the attachment size limit of Google Gmail, you can send it as an attachment.
-6. Before the deadline on July 1, 2024, you can use the "Advanced" menu to manually send notification letters by yourself, or you can set it to automatically send the letter, set how many days to send it, and how many times to send it at most.There may be many friends named 'Johnny' among the friends you invite. As long as each email address is separated by ",", you can send it to many Johnnys at the same time.
+5. Please try to put all the attachment files in this "Johnny's Invitation" folder. As long as it is within the attachment size limit of Google Gmail, you can send it as an attachment.  
+[Demo 5：Upload a attachment](https://drive.google.com/file/d/1RIHBba59FVflSmTiea78YlqvvzgSqq4z)
+6. Before the deadline on July 1, 2024, you can use the "Advanced" menu to manually send notification letters by yourself, or you can set it to automatically send the letter, set how many days to send it, and how many times to send it at most.There may be many friends named 'Johnny' among the friends you invite. As long as each email address is separated by ',' , you can send it to many Johnnys at the same time.
 ## 中文版本
 1. 請以建立副本的方式，將「不為誰而寫的郵件通知」（中文版）試算表複製到自己的雲端硬碟中。  
 [示範教學1：取得檔案](https://drive.google.com/file/d/1VPOf35PyZgLATppHCohcrrTvAS6_jnh5)
