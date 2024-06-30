@@ -1,6 +1,6 @@
 # Super Simple Mail Sender 不為誰而寫的郵件通知
 # Download 下載使用
-👉 [English version/ coming soon] 👉 [中文版本](https://docs.google.com/spreadsheets/d/1kYmwYbJJSb8_nV5BfkqUxuIF4x3pjAnmDNJcj9hI5oQ/copy)
+👉 [English version](https://docs.google.com/spreadsheets/d/1KIIDzBcajGztwh8E9QDREe-Q5BUXDKeeJgzVM3i0mYw/copy) 👉 [中文版本](https://docs.google.com/spreadsheets/d/1kYmwYbJJSb8_nV5BfkqUxuIF4x3pjAnmDNJcj9hI5oQ/copy)
 # Features 特色
 1. No installations, no bloatware, no updates: this works in any modern browser, including Google Chrome, Firefox, Edge and Safari.  
 不需要安裝，不需要外掛，不用升級，適用於最新版本的各種瀏覽器。
@@ -22,9 +22,10 @@ From now on, the magical tool for brainless work is here! Just put your attachme
 2. After opening the spreadsheet, wait for the "Advanced" function on menu to be displayed, if it is not displayed, please refresh the page once.  
 [Demo 2：Check 'Advanced' menu](https://drive.google.com/file/d/1iAwqLAXbFiqtUcU_mgHp4RXloYxpwOUP)
 3. In the Google Drive, create a folder named "theData" in the same folder as the spreadsheet to place the folders of each recipient. (When the program is executed, it will also check whether the folder exists, and if it does not exist, it will be added automatically)  
-[Demo 3：Create 'theDta' folder](https://drive.google.com/file/d/1QJml-B2QKCQw_7auFCyQpEoP7oorWQHp)
-4. Create a new recipient folder named "Johnny" in the "theData" folder. Any attachment files to be sent to Johnny in the future will be placed in this folder. Try adding a new folder in the Johnny's folder. The naming rule for the folder 「20240701_Johnny's Invition」 is 「'Deadline'_'Subject of the Letter'」.
-5. Please try to put all the attachment files in this "Johnny's Invition" folder. As long as it is within the attachment size limit of Google Gmail, you can send it as an attachment.
+[Demo 3：Create 'theData' folder](https://drive.google.com/file/d/1QJml-B2QKCQw_7auFCyQpEoP7oorWQHp)
+4. Create a new recipient folder named "Johnny" in the "theData" folder. Any attachment files to be sent to Johnny in the future will be placed in this folder. Try adding a new folder in the Johnny's folder. The naming rule for the folder 「20240715_Johnny's Invitation」 is 「'Deadline'_'Subject of the Letter'」.  
+[Demo 4：Create 'Johnny' folder, and create '20240715_Johnny's Invitation' in Johnny's folder](https://drive.google.com/file/d/1K4-aN7Jb-klC0UerVNqkAeFcKthLmMNK)
+5. Please try to put all the attachment files in this "Johnny's Invitation" folder. As long as it is within the attachment size limit of Google Gmail, you can send it as an attachment.
 6. Before the deadline on July 1, 2024, you can use the "Advanced" menu to manually send notification letters by yourself, or you can set it to automatically send the letter, set how many days to send it, and how many times to send it at most. .
 ## 中文版本
 1. 請以建立副本的方式，將「不為誰而寫的郵件通知」（中文版）試算表複製到自己的雲端硬碟中。  
