@@ -17,7 +17,8 @@ From now on, the magical tool for brainless work is here! Just put your attachme
 現在起，無腦工作的神器來啦！只要將您的附件檔案放進谷哥雲端硬碟中，提供對應的寄件人名單，剩下的問題都交給這支程式幫您來解決啦！透過程式，你可以手動寄信，也能指定時間、次數，設定成週期性自動寄信，完全不用再浪費時間盯著它。
 # How to use 使用說明
 ## English Version
-1. Please copy the "SuperSimpleMailSender"(English version) spreadsheet to your Google drive by "Make a copy".
+1. Please copy the "SuperSimpleMailSender"(English version) spreadsheet to your Google drive by "Make a copy".  
+[Demo 1：Make a copy](https://drive.google.com/file/d/1CNs_1tKbGjg-IigUbmqIUj76bL_Wv_V4)
 2. After opening the spreadsheet, wait for the "Advanced" function on menu to be displayed, if it is not displayed, please refresh the page once.
 3. In the Google Drive, create a folder named "theData" in the same folder as the spreadsheet to place the folders of each recipient. (When the program is executed, it will also check whether the folder exists, and if it does not exist, it will be added automatically)
 4. Create a new recipient folder named "Johnny" in the "theData" folder. Any attachment files to be sent to Johnny in the future will be placed in this folder. Try adding a new folder in the Johnny's folder. The naming rule for the folder 「20240701_Johnny's Invition」 is 「'Deadline'_'Subject of the Letter'」.
