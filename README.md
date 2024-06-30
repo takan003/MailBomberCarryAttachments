@@ -17,7 +17,7 @@ From now on, the magical tool for brainless work is here! Just put your attachme
 現在起，無腦工作的神器來啦！只要將您的附件檔案放進谷哥雲端硬碟中，提供對應的寄件人名單，剩下的問題都交給這支程式幫您來解決啦！透過程式，你可以手動寄信，也能指定時間、次數，設定成週期性自動寄信，完全不用再浪費時間盯著它。
 # How to use 使用說明
 ## English Version
-1. Please copy the "SuperSimpleMailSender"(English version) spreadsheet to your Google drive by "Make a copy".  
+1. Please copy the "SuperSimpleMailSender"(English version) spreadsheet to your Google Drive by "Make a copy".  
 [Demo 1：Make a copy](https://drive.google.com/file/d/1CNs_1tKbGjg-IigUbmqIUj76bL_Wv_V4)
 2. After opening the spreadsheet, wait for the "Advanced" function on menu to be displayed, if it is not displayed, please refresh the page once.  
 [Demo 2：Check 'Advanced' menu](https://drive.google.com/file/d/1iAwqLAXbFiqtUcU_mgHp4RXloYxpwOUP)
