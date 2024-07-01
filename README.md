@@ -1,6 +1,6 @@
 # Super Simple Mail Sender 不為誰而寫的郵件通知
 # Download 下載使用
-👉 [English version](https://docs.google.com/spreadsheets/d/1KIIDzBcajGztwh8E9QDREe-Q5BUXDKeeJgzVM3i0mYw/copy) 👉 [中文版本](https://docs.google.com/spreadsheets/d/1kYmwYbJJSb8_nV5BfkqUxuIF4x3pjAnmDNJcj9hI5oQ/copy)
+👉 [English version](https://docs.google.com/spreadsheets/d/1KIIDzBcajGztwh8E9QDREe-Q5BUXDKeeJgzVM3i0mYw/copy) 👉 [中文版本]( https://docs.google.com/spreadsheets/d/1kYmwYbJJSb8_nV5BfkqUxuIF4x3pjAnmDNJcj9hI5oQ/copy)  👉 [Visit My Website](https://script.google.com/a/macros/gms.hlgs.hlc.edu.tw/s/AKfycbzS29sVfv6vUKcXY8zhHl8XZKU52VfvjxzqeEQACrAufS7JiWOexlIYgyfgtCusAVJt/exec "GAS")
 # Features 特色
 1. No installations, no bloatware, no updates: this works in any modern browser, including Google Chrome, Firefox, Edge and Safari.  
 不需要安裝，不需要外掛，不用升級，適用於最新版本的各種瀏覽器。
