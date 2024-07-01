@@ -12,8 +12,8 @@
 建立副本的試算表可以在任何Google帳號的雲端硬碟上使用，您也可以自行修改程式，增加其他的功能。
 # Foreword 前言
 Sometimes when we need to periodically send various notification emails to different recipients, if we can only write and attach files manually every time, it will definitely take a lot of time and may send to the wrong recipient. , or the attachment file was misplaced.  
-From now on, the magical tool for brainless work is here! Just put your attachment file into Google Drive, provide the corresponding sender list, and let this program solve the rest of the problems for you!Through the program, you can send letters manually, or you can specify the time and frequency, and set it to automatically send letters periodically, so you don't have to waste time staring at it anymore.  
 有時候我們需要對不同的對象週期性地寄送各種通知郵件時，如果每次都只能手動寫信與附上檔案，除了耗費極大的精力不算，可能會手忙腳亂到甚至寄錯對象，實在是吃力不討好的工作。  
+From now on, the magical tool for brainless work is here! Just put your attachment file into Google Drive, provide the corresponding sender list, and let this program solve the rest of the problems for you!Through the program, you can send letters manually, or you can specify the time and frequency, and set it to automatically send letters periodically, so you don't have to waste time at it anymore.  
 現在起，無腦工作的神器來啦！只要將您的附件檔案放進谷哥雲端硬碟中，提供對應的寄件人名單，剩下的問題都交給這支程式幫您來解決啦！透過程式，你可以手動寄信，也能指定時間、次數，設定成週期性自動寄信，完全不用再浪費時間盯著它。
 # How to use 使用說明
 ## English Version
