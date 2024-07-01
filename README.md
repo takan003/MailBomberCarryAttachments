@@ -6,7 +6,7 @@
 不需要安裝，不需要外掛，不用升級，適用於最新版本的各種瀏覽器。
 2. Just put the file you want to send in the Google Drive and select the recipients. You can send the letter manually or set it to automatically send the letter periodically.  
 只要將要寄送的檔案放在雲端，選好寄送的對象，可以手動寄信，也能設定成週期性自動寄信。
-3. This program has an automatic repair function. Whether the folder on your Google Drive is deleted, the worksheet is lost, or important fields are accidentally renamed or deleted, the program can help you repair it.  
+3. This program has an automatic repair function. Whether the folder on your Google Drive is deleted, the spreadsheet is lost, or important fields are accidentally renamed or deleted, the program can help you repair it.  
 這支程式具有自動修復的功能，無論是您雲端硬碟上的資料夾被刪除，還是工作表遺失或是重要欄位不小心改名、刪除，程式都可以幫您進行修復。
 5. The copied spreadsheet can be used in anyone's Google Drive, and you can also modify the program by yourself to add other functions.  
 建立副本的試算表可以在任何Google帳號的雲端硬碟上使用，您也可以自行修改程式，增加其他的功能。
