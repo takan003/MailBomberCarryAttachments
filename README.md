@@ -24,7 +24,8 @@ From now on, the magical tool for brainless work is here! Just put your attachme
 3. In the Google Drive, create a folder named "theData" in the same folder as the spreadsheet to place the folders of each recipient. (When the program is executed, it will also check whether the folder exists, and if it does not exist, it will be added automatically)  
 [Demo 3：Create 'theData' folder](https://drive.google.com/file/d/1QJml-B2QKCQw_7auFCyQpEoP7oorWQHp)
 4. Create a new recipient folder named "Johnny" in the "theData" folder. Any attachment files to be sent to Johnny in the future will be placed in this folder. Try adding a new folder in the Johnny's folder. The naming rule for the folder 「20240715_Johnny's Invitation」 is 「'Deadline'_'Subject of the Letter'」.  
-[Demo 4：Create 'Johnny' folder, and create '20240715_Johnny's Invitation' in Johnny's folder](https://drive.google.com/file/d/1K4-aN7Jb-klC0UerVNqkAeFcKthLmMNK)
+[Demo 4：Create 'Johnny' folder, and create '20240715_Johnny's Invitation' in Johnny's folder](https://drive.google.com/file/d/1K4-aN7Jb-klC0UerVNqkAeFcKthLmMNK)  
+[Graph: Program, folders and files Structuration](https://drive.google.com/file/d/1UvnEB671vC40tvYmo9lwcSATwbG_1Y-o)
 5. Please try to put all the attachment files in this "Johnny's Invitation" folder. As long as it is within the attachment size limit of Google Gmail, you can send it as an attachment.  
 [Demo 5：Upload a attachment](https://drive.google.com/file/d/1RIHBba59FVflSmTiea78YlqvvzgSqq4z)
 6. Before the deadline on July 15, 2024, you can use the "Advanced" menu to manually send notification letters by yourself, or you can set it to automatically send the letter, set how many days to send it, and how many times to send it at most.There may be many friends named 'Johnny' among the friends you invite. As long as each email address is separated by ',' , you can send it to many Johnnys at the same time.  
