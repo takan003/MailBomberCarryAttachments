@@ -25,7 +25,7 @@ From now on, the magical tool for brainless work is here! Just put your attachme
 [Demo 3：Create 'theData' folder](https://drive.google.com/file/d/1QJml-B2QKCQw_7auFCyQpEoP7oorWQHp)
 4. Create a new recipient folder named "Johnny" in the "theData" folder. Any attachment files to be sent to Johnny in the future will be placed in this folder. Try adding a new folder in the Johnny's folder. The naming rule for the folder 「20240715_Johnny's Invitation」 is 「'Deadline'_'Subject of the Letter'」.  
 [Demo 4：Create 'Johnny' folder, and create '20240715_Johnny's Invitation' in Johnny's folder](https://drive.google.com/file/d/1K4-aN7Jb-klC0UerVNqkAeFcKthLmMNK)  
-[Graph: Program, folders and files Structuration](https://drive.google.com/file/d/1UvnEB671vC40tvYmo9lwcSATwbG_1Y-o)
+[Graph: Spreadsheet, folders and files Structuration](https://drive.google.com/file/d/1UvnEB671vC40tvYmo9lwcSATwbG_1Y-o)
 5. Please try to put all the attachment files in this "Johnny's Invitation" folder. As long as it is within the attachment size limit of Google Gmail, you can send it as an attachment.  
 [Demo 5：Upload a attachment](https://drive.google.com/file/d/1RIHBba59FVflSmTiea78YlqvvzgSqq4z)
 6. Before the deadline on July 15, 2024, you can use the "Advanced" menu to manually send notification letters by yourself, or you can set it to automatically send the letter, set how many days to send it, and how many times to send it at most.There may be many friends named 'Johnny' among the friends you invite. As long as each email address is separated by ',' , you can send it to many Johnnys at the same time.  
@@ -39,7 +39,8 @@ From now on, the magical tool for brainless work is here! Just put your attachme
 3. 在雲端硬碟中，與試算表同一個資料夾中建立一個名稱為「資料區」的資料夾，用來放置各個收件者的資料夾。（程式執行時也會檢查資料夾是否存在，如果不存在會自動新增）  
 [示範教學3：建立「資料區」的資料夾](https://drive.google.com/file/d/1MW_jd0RB6gFJn1xcuMG6Bds-kKw0VLME)
 4. 在「資料區」資料夾中新增一個名為「帥哥」的收件人資料夾，未來任何要寄給帥哥的附件檔案都放在這個資料夾這裡，試著在帥哥資料夾中新增一個「1130701_頒獎典禮」的資料夾，命名規則是「截止期限_信件主旨」。  
-[示範教學4：在「資料區」中新增收件人為「帥哥」的資料夾，並在其中新增一個活動資料夾「1130701_頒獎典禮」](https://drive.google.com/file/d/1RtrmEQD36mjw8VUxIpRP0Rtydm8wE0zc)
+[示範教學4：在「資料區」中新增收件人為「帥哥」的資料夾，並在其中新增一個活動資料夾「1130701_頒獎典禮」](https://drive.google.com/file/d/1RtrmEQD36mjw8VUxIpRP0Rtydm8wE0zc)  
+[圖解說明：試算表、資料夾與檔案的架構](https://drive.google.com/file/d/1Btl4LT_twgMVbB7rnSGsCTWNGgsTDiAT)
 5. 請試著在這個「頒獎典禮」的資料放進所有的附件檔案，只要在Google Gmail的附件大小限制內都可以作為附件來寄送。  
 [示範教學5：放入檔案做為「1130701_頒獎典禮」的附件](https://drive.google.com/file/d/1S2BC4wn0c0u29S87YnZCGnIqKvNYcvwj)
 6. 在113年7月1日期限之前，可以透過「進階功能」選單，可以自行手動寄送通知信件，也可以設定為自動寄信，設定多少天寄送一次，最多寄送幾次。每個年輕人對早餐店老闆娘來說都是帥哥，所以帥哥可以有很多位，只要每個電子信箱用「,」隔開，就能同時寄給很多位帥哥。  
