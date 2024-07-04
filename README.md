@@ -5,7 +5,7 @@
 1. No installations, no bloatware, no updates: this works in any modern browser, including Google Chrome, Firefox, Edge and Safari.  
 不需要安裝，不需要外掛，不用升級，適用於最新版本的各種瀏覽器。
 2. Just put the files you want to send in the Google Drive with the recipients list in the spreadsheet. You can send the letter manually or set it to automatically send the letter periodically.  
-只要將要寄送的檔案放在雲端，選好寄送的對象，可以手動寄信，也能設定成週期性自動寄信。
+只要將要寄送的檔案放在雲端，搭配試算表中的收件人名單，就可以手動寄信，也能設定成週期性自動寄信。
 3. This program has an automatic repair function. Whether the folder on your Google Drive is deleted, the spreadsheet is lost, or important fields are accidentally renamed or deleted, the program can help you repair it.  
 這支程式具有自動修復的功能，無論是您雲端硬碟上的資料夾被刪除，還是工作表遺失或是重要欄位不小心改名、刪除，程式都可以幫您進行修復。
 5. The copied spreadsheet can be used in anyone's Google Drive, and you can also modify the program by yourself to add other functions.  
