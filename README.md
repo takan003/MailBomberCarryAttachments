@@ -1,4 +1,4 @@
-# Super Simple Mail Sender 不為誰而寫的郵件通知
+# Mail Bomber With Attachments 郵件轟炸機
 # Download 下載使用
 👉 [English version](https://docs.google.com/spreadsheets/d/1KIIDzBcajGztwh8E9QDREe-Q5BUXDKeeJgzVM3i0mYw/copy) 👉 [中文版本]( https://docs.google.com/spreadsheets/d/1kYmwYbJJSb8_nV5BfkqUxuIF4x3pjAnmDNJcj9hI5oQ/copy)  👉 [Visit My Website](https://script.google.com/a/macros/gms.hlgs.hlc.edu.tw/s/AKfycbzS29sVfv6vUKcXY8zhHl8XZKU52VfvjxzqeEQACrAufS7JiWOexlIYgyfgtCusAVJt/exec "GAS")
 # Features 特色
@@ -17,7 +17,7 @@ From now on, the magical tool for brainless work is here! Just put your attachme
 現在起，無腦工作的神器來啦！只要將您的附件檔案放進谷哥雲端硬碟中，提供對應的寄件人名單，剩下的問題都交給這支程式幫您來解決啦！透過程式，你可以手動寄信，也能指定時間、次數，設定成週期性自動寄信，完全不用再浪費時間盯著它。
 # How to use 使用說明
 ## English Version
-1. Please copy the "SuperSimpleMailSender"(English version) spreadsheet to your Google Drive by "Make a copy".  
+1. Please copy the "MailBomberWithAttachments"(English version) spreadsheet to your Google Drive by "Make a copy".  
 [Demo 1：Make a copy](https://drive.google.com/file/d/1CNs_1tKbGjg-IigUbmqIUj76bL_Wv_V4)
 2. After opening the spreadsheet, wait for the "Advanced" function on menu to be displayed, if it is not displayed, please refresh the page once.  
 [Demo 2：Check 'Advanced' menu](https://drive.google.com/file/d/1iAwqLAXbFiqtUcU_mgHp4RXloYxpwOUP)
@@ -32,7 +32,7 @@ From now on, the magical tool for brainless work is here! Just put your attachme
 [Demo 6：Send a mail](https://drive.google.com/file/d/1O2f47Wh8JItMqDrXyD4dMic_99zPIsQg)  
 [Demo 7：Turn on automatic mailing](https://drive.google.com/file/d/1wES_mL5vELHxXp8_G5asnn_CjNETWUUk)
 ## 中文版本
-1. 請以建立副本的方式，將「不為誰而寫的郵件通知」（中文版）試算表複製到自己的雲端硬碟中。  
+1. 請以建立副本的方式，將「郵件轟炸機」（中文版）試算表複製到自己的雲端硬碟中。  
 [示範教學1：取得檔案](https://drive.google.com/file/d/1VPOf35PyZgLATppHCohcrrTvAS6_jnh5)
 2. 打開試算表之後，等待「進階功能」功能顯示，若沒有顯示請重新整理網頁一次。  
 [示範教學2：顯示進階功能選單](https://drive.google.com/file/d/1qRf8TKYvPUF3PbQ7Xhh-eneyAhu7OWVY)
